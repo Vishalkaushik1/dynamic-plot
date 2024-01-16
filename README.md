@@ -1,8 +1,5 @@
 # dynamic-plot
 fifa data
-Certainly! Here's a README template based on your provided information for the Dynamic Graph project analyzing air quality data:
-
----
 
 # Dynamic Graph Project - FIFA Dataset Analysis
 
