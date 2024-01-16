@@ -38,6 +38,12 @@ The project provides a comprehensive analysis of the FIFA dataset, showcasing tr
 - Implement machine learning models for predictive analytics.
 - Enhance interactivity in dynamic graphs for user-friendly exploration.
 
+## Sources-
+
+Code reference-https://plotly.com/python/plotly-express/
+
+Dataset-https://www.kaggle.com/datasets/mahmoudshogaa/fifa-data?rvi=1
+
 ## Contributing
 
 Feel free to contribute to the project by submitting issues, providing feedback, or creating pull requests. Your contributions are highly appreciated.
