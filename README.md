@@ -1,5 +1,4 @@
-# dynamic-plot
-fifa data
+
 
 # Dynamic Graph Project - FIFA Dataset Analysis
 
